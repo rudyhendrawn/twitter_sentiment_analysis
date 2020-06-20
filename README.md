@@ -1,4 +1,4 @@
-# twitter_sentiment_analysis
+# Twitter Sentiment Analysis
 Twitter sentiment analysis using tweepy and VaderSentiment
 
 ## Prerequisites
